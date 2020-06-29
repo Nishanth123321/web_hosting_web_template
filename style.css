@@ -6,7 +6,7 @@ body{
 .header-section{
 
 	min-height:100vh;
-	background:url('header_Section.png');
+	background:url('header_section.png');
 	background-repeat: none;
 	background-size:cover;
 	color:white;
